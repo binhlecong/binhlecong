@@ -13,7 +13,7 @@
 - :electron: React (JavaScript)
 - 💻 Python | C++ | Java (for pet projects only)
 
-### Stat
+### 📊 Stat
 ![binhlecong's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhlecong&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhlecong&theme=nightowl&layout=compact)
