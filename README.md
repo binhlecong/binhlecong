@@ -11,7 +11,7 @@
 - 🎯 Flutter (Dart)
 - 📱  Native mobile app dvelopment (Java/Kotlin)
 - :electron: React (JavaScript)
-- 💻 Python | C++ | Java (for pet projects only)
+- 💻 Python | C++ (pet projects)
 
 ### 📊 Stat
 ![binhlecong's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhlecong&show_icons=true&theme=cobalt)
