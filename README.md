@@ -2,7 +2,6 @@
 
 ### 👨🏻‍💻 About
 - 🎓 I'm a student at Ho Chi Minh University of Sciences
-- 😎 I'm currently aiming to become a Mobile App Developer
 - 📟 I also have a little experience with web development using React
 - 🏃‍♂️ I'm improving my skill in app development, design pattern, problem solving, UX/UI design
 - 💬 My language skill include Vietnamese (mother tongue) and English (IELTS 7.5)
@@ -10,7 +9,6 @@
 ### 🛠 Tech Stack / Skills
 - 🎯 Flutter (Dart)
 - 📱  Native mobile app dvelopment (Java/Kotlin)
-- :electron: React (JavaScript)
 - 💻 Python | C++ (pet projects)
 
 ### 📊 Stat
