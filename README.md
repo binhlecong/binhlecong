@@ -15,10 +15,3 @@
 ![binhlecong's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhlecong&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhlecong&theme=nightowl&layout=compact)
-
-### 🤝🏻 Connect with me
-
-<p align="left"> 
-&nbsp; <a href="https://www.facebook.com/profile.php?id=100005211708373/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/50/000000/facebook-circled--v5.png" width="50"/></a>  
-&nbsp; <a href="https://www.linkedin.com/in/congbinhle/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png" width="50"/></a>
-</p>
