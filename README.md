@@ -1,14 +1,14 @@
 ## Hi, I'm Binh 👋
 
 ### 👨🏻‍💻 About
-- 🎓 I'm a student at Ho Chi Minh University of Sciences
-- 📟 I also have a little experience with web development using React
+- 🎓 A student at Ho Chi Minh University of Sciences
+- 📟 I focus on Android native app development. I also have a little experience with web development using ReactJs.
 - 🏃‍♂️ I'm improving my skill in app development, design pattern, problem solving, UX/UI design
 - 💬 My language skill include Vietnamese (mother tongue) and English (IELTS 7.5)
 
 ### 🛠 Tech Stack / Skills
 - 🎯 Flutter (Dart)
-- 📱  Native mobile app dvelopment (Java/Kotlin)
+- 📱 Native mobile app dvelopment (Java/Kotlin)
 - 💻 Python | C++ (pet projects)
 
 ### 📊 Stat
