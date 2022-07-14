@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 About
 - 🎓 A student at Ho Chi Minh University of Sciences
-- 📟 I focus on Android native app development. I also have a little experience with web development using ReactJs.
+- 📟 Can code mobile apps with Flutter and Kotlin.
 - 🏃‍♂️ I'm improving my skill in app development, design pattern, problem solving, UX/UI design
-- 💬 My language skill include Vietnamese (mother tongue) and English (IELTS 7.5)
+- 💬 Communicate well in English (IELTS 7.5)
 
 ### 🛠 Tech Stack / Skills
 - 🎯 Flutter (Dart)
