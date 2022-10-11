@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About
 - 🎓 A student at Ho Chi Minh University of Sciences
 - 📟 Can code mobile apps with Flutter and Kotlin.
-- :laptop Open to both mobile and backend job opportunities.
+- 🙌 Open to both mobile and backend job opportunities.
 - 🏃‍♂️ I'm improving my skill in app development, design pattern, problem solving, UX/UI design
 - 💬 Communicate well in English (IELTS 7.5)
 
