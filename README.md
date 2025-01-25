@@ -1,11 +1,10 @@
 ## Hi, I'm Binh 👋
 
 ### 👨🏻‍💻 About
-- 🎓 A student at Ho Chi Minh University of Sciences.
+- 🎓 Graduated from Ho Chi Minh University of Sciences.
 - 💻 Focusing on backend development (Java)
 - 📟 Can code mobile apps with Flutter and Kotlin.
-- 🏃‍♂️ I'm improving my skill in app development, design pattern, problem solving, UX/UI design
-- 💬 Communicate well in English (IELTS 7.5)
+- 💬 Communicate confidently in English (IELTS 7.5)
 
 ### 🛠 Tech Stack / Skills
 - ☕ Java | Spring Boot
